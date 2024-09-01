@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanuk11&label=Profile%20views&color=0e75b6&style=flat" alt="tanuk11" /> </p>
 
-- 👨‍💻 All of my projects are available at [Tanya Kiran Portfolio](https://elegant-douhua-eafe3b.netlify.app/)
+- 👨‍💻 All of my projects are available at [Tanya Kiran Portfolio](https://portfolio-coral-five-32.vercel.app/)
 
 - 📫 How to reach me **tanyakiran5@gmail.com**
 
