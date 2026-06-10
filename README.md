@@ -25,7 +25,7 @@ I enjoy solving complex problems, building reliable APIs, and creating efficient
 ## 🌐 Portfolio
 
 🔗 **Portfolio:**
-https://portfolio-tanya-8shjicbrx-tanuk11s-projects.vercel.app/
+https://portfolio-tanya-xf66-git-main-tanuk11s-projects.vercel.app/
 
 ---
 
