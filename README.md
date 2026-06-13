@@ -25,7 +25,7 @@ I enjoy solving complex problems, building reliable APIs, and creating efficient
 ## 🌐 Portfolio
 
 🔗 **Portfolio:**
-https://portfolio-tanya-4i9w.vercel.app/
+https://portfolio-tanya-sand.vercel.app/
 
 ---
 
